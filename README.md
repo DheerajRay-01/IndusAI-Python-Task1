@@ -1,6 +1,6 @@
-# Python Development Internship Assignment Repository
+# IndusAi Python Internship Task-1 Repository
 
-Welcome to the Python development internship assignment repository for IndusAI Solutions. This repository contains several Python projects completed as part of the internship assignment.
+Welcome to the Python Internship Task-1 repository for IndusAI Solutions. This repository contains several Python projects completed as part of the internship assignment.
 
 ## Projects Overview
 
