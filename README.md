@@ -6,7 +6,7 @@ Welcome to the Python development internship assignment repository for IndusAI S
 
 1. **Guess the Number Game**
    - Description: A game where the computer randomly selects a number and the user has to guess it with hints provided.
-   - [Go to Guess the Number Game]([guessTheNumber](https://github.com/DheerajRay-01/IndusAI-Python-Task1/tree/57696a1e817d38d88610c9a85082fe95d62d591a/guessTheNumber))
+   - [Go to Guess the Number Game](https://github.com/DheerajRay-01/IndusAI-Python-Task1/tree/57696a1e817d38d88610c9a85082fe95d62d591a/guessTheNumber)
 
 2. **To-Do List Application**
    - Description: A simple CLI-based to-do list manager where users can add, view, and delete tasks.
