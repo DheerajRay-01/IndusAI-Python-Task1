@@ -10,7 +10,7 @@ Welcome to the Python Internship Task-1 repository for IndusAI Solutions. This r
 
 2. **To-Do List Application**
    - Description: A simple CLI-based to-do list manager where users can add, view, and delete tasks.
-   - [Go to To-Do List Application](#to-do-list-application)
+   - [Go to To-Do List Application](/ToDo)
 
 3. **Weather API Fetcher**
    - Description: A program that fetches and displays the current weather of a specified location using an API.
