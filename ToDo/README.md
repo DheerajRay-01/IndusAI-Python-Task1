@@ -1,7 +1,7 @@
 # To-Do List Application
 
 ## Description
-This Python program is a simple "Guess the Number" game where the computer randomly selects a number between 1 and 100, and the user has 10 attempts to guess it.
+This code implements a command-line To-Do List Manager that allows users to add, view, and delete tasks interactively through a menu-driven interface.
 
 ## Go to Code
 [To-Do List Application](todo.py)
