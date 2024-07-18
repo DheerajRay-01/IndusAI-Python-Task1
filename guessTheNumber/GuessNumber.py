@@ -26,5 +26,8 @@ def run_number_guessing_game():
     
     print(f"Sorry, you have used all {max_attempts} attempts. The correct number was {secret_number}.")
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 run_number_guessing_game()
