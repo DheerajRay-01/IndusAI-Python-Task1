@@ -37,7 +37,7 @@ def main():
         elif choice == '3':
             try:
                 task_index = int(input("\nEnter the task number to delete: ")) - 1
-                delete_task(task_3index)
+                delete_task(task_index)
                 view_tasks()
             except ValueError:
                 print("Please enter a valid number.")
@@ -47,4 +47,5 @@ def main():
         else:
             print("Invalid choice. Please try again.")
 
-main()
+if __name__ == "__main__":
+    main()
