@@ -14,7 +14,7 @@ Welcome to the Python Internship Task-1 repository for IndusAI Solutions. This r
 
 3. **Weather API Fetcher**
    - Description: A program that fetches and displays the current weather of a specified location using an API.
-   - [Go to Weather API Fetcher](#weather-api-fetcher)
+   - [Go to Weather API Fetcher](/WeatherAPI_Fetcher)
 
 4. **Basic Web Scraper**
    - Description: A program that extracts data from a given website and displays the information in a readable format.
