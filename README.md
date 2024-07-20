@@ -22,7 +22,7 @@ Welcome to the Python Internship Task-1 repository for IndusAI Solutions. This r
 
 5. **Text-Based Adventure Game**
    - Description: An interactive game where players navigate through a story by making choices at each step.
-   - [Go to Text-Based Adventure Game](#text-based-adventure-game)
+   - [Go to Text-Based Adventure Game](/Text-BasedAdventureGame)
 
 6. **Simple Personal Budget Tracker**
    - Description: A program to help users track their income and expenses, providing a summary of their financial status.
