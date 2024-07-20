@@ -26,7 +26,7 @@ Welcome to the Python Internship Task-1 repository for IndusAI Solutions. This r
 
 6. **Simple Personal Budget Tracker**
    - Description: A program to help users track their income and expenses, providing a summary of their financial status.
-   - [Go to Simple Personal Budget Tracker](#simple-personal-budget-tracker)
+   - [Go to Simple Personal Budget Tracker](/SimplePersonalBudgetTracker)
 
 7. **Contact Book**
    - Description: An application to store and manage contact information, allowing users to add, delete, and search for contacts.
