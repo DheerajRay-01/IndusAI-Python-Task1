@@ -16,7 +16,7 @@ A simple Python app to fetch and display current weather for a specified city us
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/DheerajRay-01/IndusAI-Python-Tasks.git
    cd weather-app
    ```
 
