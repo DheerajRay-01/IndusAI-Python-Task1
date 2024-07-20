@@ -18,7 +18,7 @@ Welcome to the Python Internship Task-1 repository for IndusAI Solutions. This r
 
 4. **Basic Web Scraper**
    - Description: A program that extracts data from a given website and displays the information in a readable format.
-   - [Go to Basic Web Scraper](#basic-web-scraper)
+   - [Go to Basic Web Scraper](/basicWebScraper)
 
 5. **Text-Based Adventure Game**
    - Description: An interactive game where players navigate through a story by making choices at each step.
