@@ -38,10 +38,7 @@ Welcome to the Python Internship Task-1 repository for IndusAI Solutions. This r
 
 7. **Contact Book**
    - **Description**: An application to store and manage contact information, allowing users to add, delete, and search for contacts.
-   - **How to Run**:
-     ```bash
-     python ContactBook/contact_book.py
-     ```
+ 
    - [Go to Contact Book](./ContactBook)
 
 ## Requirements
